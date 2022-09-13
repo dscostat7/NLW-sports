@@ -1,8 +1,8 @@
 <h1 align="center">
-	NLW Return Impulse <Component_feedback />
+	NLW eSports
 </h1>
 
-<p align="center">Event Next Level Week Return.</p>
+<p align="center">Event Next Level Week.</p>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/React-blue">
@@ -27,8 +27,6 @@ A Component Widget for feedback, utility in all websites and projects.
 - ReactJS
 - React native
 - NodeJS
-- Expo
-- Vite
 - TailWindCSS
  
 <a href="https://component-feedback.vercel.app/" target="_blank">Access application developed</a>
