@@ -5,6 +5,7 @@
 <p align="center">Event Next Level Week.</p>
 
 <p align="center">
+  <img alt="License" src="https://img.shields.io/badge/Skills-blue">
   <img alt="License" src="https://img.shields.io/badge/React-blue">
   <img alt="License" src="https://img.shields.io/badge/ReactNative-blue">
   <img alt="License" src="https://img.shields.io/badge/NodeJS-success">
